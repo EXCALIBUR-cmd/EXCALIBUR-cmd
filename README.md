@@ -4,15 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FullStack developer
 ------------------
 
-I’m a passionate problem-solver who thrives at the intersection of technology, creativity, and innovation. Currently pursuing my degree in Computer Science, I specialize in Frontend Engineering, AI/ML, and building full-stack applications that don’t just function — they tell a story.
+I’m a Computer Science student and developer passionate about solving problems at the intersection of technology, creativity, and innovation. My expertise spans Frontend Engineering, AI/ML, and full-stack development (MERN stack), where I focus on building applications that are not only functional but also engaging and impactful.
 
-Over the past few years, I’ve worked on a wide spectrum of projects ranging from interactive landing pages and immersive portfolio designs to my personal AI assistant Friday, designed to integrate APIs and automate daily workflows. These experiences have taught me the importance of scalable design, user experience, and real-world problem solving.
+Over the past few years, I’ve built projects ranging from interactive web experiences and immersive portfolio designs to Friday, a personal AI assistant that integrates APIs, automates workflows, and demonstrates my ability to connect AI with real-world use cases. These projects have strengthened my skills in React, Node.js, MongoDB, PyTorch, TensorFlow, and modern frontend frameworks while teaching me the importance of scalable design, user experience, and practical problem-solving.
 
-What sets me apart is my curiosity and adaptability. I enjoy exploring new technologies like Three.js, GLSL shaders, and GSAP for creating engaging visual effects, diving into PyTorch and TensorFlow for AI/ML, or using React and modern frontend tools to build highly interactive user experiences. For me, every project is not just about writing code — it’s about crafting an experience that people can use, feel, and remember.
+I bring curiosity, adaptability, and creativity to every project. Whether it’s exploring Three.js, GLSL shaders, and GSAP for visually stunning interfaces, experimenting with AI models in PyTorch/TensorFlow, or building end-to-end solutions with the MERN stack, I thrive on challenges that push me to think differently.
 
-When I’m not coding, I channel my creativity into writing poems and short stories, which helps me see problems from new perspectives and bring a human touch to the solutions I design. I strongly believe in learning by doing, which is why hackathons, internships, and personal projects have been key stepping stones in my journey.
+Outside of code, I write poetry and short stories, which helps me bring a human perspective to my work and design technology with empathy.
 
-I’m now seeking opportunities where I can contribute to impactful projects in AI, software engineering, or frontend development, while continuing to learn from industry experts and pushing myself to build technology that truly matters.
+I’m looking to collaborate on impactful projects in AI, frontend engineering, or full-stack development — contributing code, creativity, and a problem-solving mindset. If you’re working on something exciting, let’s connect and build solutions that truly matter.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [singhmaninder20047@gmail.com](mailto:singhmaninder20047@gmail.com)
