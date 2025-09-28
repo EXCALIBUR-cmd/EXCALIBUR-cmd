@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Maninder Singh
 =======================================================================================================================================
 
-Frontend Developer
+FullStack developer
 ------------------
 
 I’m a passionate problem-solver who thrives at the intersection of technology, creativity, and innovation. Currently pursuing my degree in Computer Science, I specialize in Frontend Engineering, AI/ML, and building full-stack applications that don’t just function — they tell a story.
