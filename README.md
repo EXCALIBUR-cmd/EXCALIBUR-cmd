@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Maninder Singh
 =======================================================================================================================================
 
-FullStack developer
+Full Stack Developer & Designer
 ------------------
 
 I’m a Computer Science student and developer passionate about solving problems at the intersection of technology, creativity, and innovation. My expertise spans Frontend Engineering, AI/ML, and full-stack development (MERN stack), where I focus on building applications that are not only functional but also engaging and impactful.
