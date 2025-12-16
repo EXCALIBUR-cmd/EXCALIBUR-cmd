@@ -1,18 +1,15 @@
 <!-- Animated Header Background -->
 <div align="center">
-  
-![Animated Banner](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
+✨ 🚀 💻 🎨 🤖 ✨
 
 # 🌟 Maninder Singh
 
 ### `< Full Stack Developer | AI/ML Enthusiast | Creative Technologist />`
 
-```
-████████████████████████████████████████████████████████████
-█ Building immersive experiences at the intersection       █
-█ of code, creativity, and innovation                      █
-████████████████████████████████████████████████████████████
-```
+🌊 **Building immersive experiences at the intersection of code, creativity, and innovation** 🌊
+
+✨ 🚀 💻 🎨 🤖 ✨
 
 </div>
 
@@ -131,7 +128,7 @@ MERN stack mastery, scalable architecture, modern UX
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EXCALIBUR-cmd&theme=radical&layout=compact&hide_border=true&bg_color=0d1117)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EXCALIBUR-cmd&theme=radical&hide_border=true&background=0d1117)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=EXCALIBUR-cmd&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
