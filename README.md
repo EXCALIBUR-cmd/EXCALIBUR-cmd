@@ -1,193 +1,366 @@
-<!-- Animated Header Background -->
 <div align="center">
-  
-![Animated Banner](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
-# 🌟 Maninder Singh
-
-### `< Full Stack Developer | AI/ML Enthusiast | Creative Technologist />`
 
 ```
-████████████████████████████████████████████████████████████
-█ Building immersive experiences at the intersection       █
-█ of code, creativity, and innovation                      █
-████████████████████████████████████████████████████████████
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║    ███╗   ███╗ █████╗ ███╗   ██╗██╗███╗   ██╗██████╗ ███████╗██╗ ║
+║    ████╗ ████║██╔══██╗████╗  ██║██║████╗  ██║██╔══██╗██╔════╝██║ ║
+║    ██╔████╔██║███████║██╔██╗ ██║██║██╔██╗ ██║██║  ██║█████╗  ██║ ║
+║    ██║╚██╔╝██║██╔══██║██║╚██╗██║██║██║╚██╗██║██║  ██║██╔══╝  ╚═╝ ║
+║    ██║ ╚═╝ ██║██║  ██║██║ ╚████║██║██║ ╚████║██████╔╝███████╗██╗ ║
+║    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝ ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
+
+### **Code Metamorphosis: Where Logic Becomes Art**
+
+```
+const reality = {
+  day: "Full Stack Developer",
+  night: "Creative Technologist", 
+  passion: "Blurring code ↔ art boundaries",
+  status: "Building the extraordinary"
+}
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier&weight=700&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=1000&lines=Transforming+pixels+into+experiences;Sculpting+logic+into+storytelling;Painting+with+JavaScript;Breathing+life+into+the+web" alt="Evolving Titles" />
 
 </div>
 
-<!-- Animated Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00FF88&center=true&vCenter=true&width=900&lines=Full+Stack+%7C+Frontend+%7C+Backend;React+%7C+Next.js+%7C+Node.js;AI%2FML+%7C+Three.js+%7C+GLSL;Code+%2B+Art+%3D+Magic" alt="Typing SVG" />
+
+```
+⚡ NEURAL INTERFACE ONLINE ⚡
+████████████████████████████████████████ 100%
+
+Status: READY FOR INNOVATION
+Signal: CREATIVE OVERLOAD
+Vibe: EXTRAORDINARY OR BUST
+```
+
+</div>
 </div>
 
 ---
 
-## 📊 Real-Time Stats
+## 🌌 THE CREATIVE JOURNEY
 
 <div align="center">
-  
-  [![GitHub Views](https://komarev.com/ghpvc/?username=EXCALIBUR-cmd&color=00FF88&style=flat-square&label=Profile+Views)](https://github.com/EXCALIBUR-cmd)
-  
-  ![Profile Last Updated](https://img.shields.io/badge/Last%20Updated-Dec%202025-brightgreen?style=flat-square)
-  ![Status](https://img.shields.io/badge/Status-Open%20to%20Collaborate-00FF88?style=flat-square)
-  ![Location](https://img.shields.io/badge/Location-🇮🇳%20India-blue?style=flat-square)
+
+```
+          INPUT: LOGIC                    OUTPUT: EXPERIENCE
+             ↓                                    ↑
+          ┌──────┐                           ┌────────┐
+          │      │ ─→ IMAGINATION ─→        │        │
+          │ CODE │ ─→ INNOVATION ───→       │  ART   │
+          │      │ ─→ PASSION ────→         │        │
+          └──────┘                           └────────┘
+             ↓                                    ↑
+        Raw Potential                   Transformed Reality
+        
+        
+        ╭─────────────────────────────────────────────────╮
+        │  THIS IS WHERE THE MAGIC HAPPENS                │
+        │  Every line of code is a brushstroke           │
+        │  Every function is a symphony movement         │
+        │  Every project is a story told in bits         │
+        ╰─────────────────────────────────────────────────╯
+```
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🎨 SKILL MATRIX: THE ARSENAL
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║  TIER 1: MASTERY LEVEL                                            ║
+║  ═══════════════════════════════════════════════════════════════  ║
+║  ◆ JavaScript  ████████████████████░ 95% | Fluent & Creative    ║
+║  ◆ React       ████████████████░░░░░ 90% | Component Architect  ║
+║  ◆ UI/UX       ████████████████░░░░░ 90% | Visual Storyteller   ║
+║  ◆ Node.js     ███████████████░░░░░░ 85% | Backend Alchemist   ║
+║                                                                    ║
+║  TIER 2: ADVANCED PROFICIENCY                                    ║
+║  ═══════════════════════════════════════════════════════════════  ║
+║  ◆ Three.js    ███████████░░░░░░░░░░ 75% | 3D Reality Crafter  ║
+║  ◆ Python      ███████████░░░░░░░░░░ 75% | AI Problem Solver   ║
+║  ◆ Next.js     ██████████░░░░░░░░░░░ 70% | Full Stack Pioneer  ║
+║  ◆ TypeScript  ██████████░░░░░░░░░░░ 70% | Type Guardian       ║
+║                                                                    ║
+║  TIER 3: EMERGING BRILLIANCE                                     ║
+║  ═══════════════════════════════════════════════════════════════  ║
+║  ◆ GLSL        ████████░░░░░░░░░░░░░ 55% | Shader Poet (Rising)║
+║  ◆ PyTorch     ████████░░░░░░░░░░░░░ 55% | Neural Networks     ║
+║  ◆ PostgreSQL  ███████░░░░░░░░░░░░░░ 50% | Data Architecture  ║
+║  ◆ DevOps      ███████░░░░░░░░░░░░░░ 50% | System Orchestrator║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
+### 🔮 CONSTELLATION OF TECHNOLOGIES
+
+```
+                     ╭─── CREATIVITY ENGINES ───╮
+                     │                           │
+            ┌────────┼──────────┬────────────────┤
+            │        │          │                │
+        GSAP ★     Three.js ★  GLSL ★      Canvas API ★
+            │        │          │                │
+            └────────┼──────────┴────────────────┤
+                     │                           │
+                ╭────┴────────────────────────╮  │
+                │    WEB CANVAS               │  │
+                │  Where Dreams are Rendered │  │
+                ╰────────────────────────────╯  │
+                                                │
+        ┌──────────────────────────────────────┤
+        │                                      │
+     FRONTEND ★                           BACKEND ★
+    (React Engine)                    (Node.js Engine)
+        │                                      │
+        └──────────────┬───────────────────────┤
+                       │                       │
+                   DATABASE ★             AI/ML ★
+              (PostgreSQL Vault)      (TensorFlow Brain)
+                       │                       │
+                       ╰───────┬───────────────╯
+                               │
+                        ★ FULL STACK ALCHEMY ★
+```
+
+</div>
+
+---
+
+## 🧬 DNA OF MY WORK
 
 <table>
-  <tr>
-    <td width="50%">
+<tr>
+<td align="center" width="50%">
 
-### 🎯 What I Do
-- 🚀 Build scalable full-stack applications
-- 🎨 Create immersive web experiences
-- 🤖 Develop AI/ML solutions
-- ⚡ Combine code with creativity
+### 🧠 Left Brain (Logic)
+```
+function thinkLinear() {
+  const logic = [
+    "Architecture",
+    "Optimization", 
+    "Scalability",
+    "Clean Code",
+    "Problem Solving"
+  ];
+  
+  return logic.map(x => 
+    optimize(x) + creativity
+  );
+}
+```
 
-### 💡 Philosophy
-*"Code is poetry. Design is story. Together, they create magic."*
+</td>
+<td align="center" width="50%">
 
-The web is my canvas. I paint with JavaScript, sculpt with Three.js, and animate with GSAP. Every project is an opportunity to push boundaries and create something that matters.
+### 💫 Right Brain (Creativity)
+```
+const think_visually = {
+  aesthetics: ∞,
+  storytelling: "immersive",
+  design: "next-level",
+  innovation: "boundary-pushing",
+  magic: "where logic meets art"
+};
 
-    </td>
-    <td width="50%">
+Art ∘ Code = Universe Expansion
+```
 
-### 🌐 Tech Arsenal
-**Frontend:** React, Next.js, Vue.js  
-**Backend:** Node.js, Express, Python  
-**Design:** Three.js, GLSL, GSAP, Tailwind  
-**AI/ML:** PyTorch, TensorFlow, Deep Learning  
-**Tools:** Git, Docker, PostgreSQL, MongoDB
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack Explorer
+## 🚀 SIGNATURE PROJECTS: REALITY BENDING
 
 <div align="center">
 
-### 🔥 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=fff)
-
-### ⚡ Frontend Frameworks
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=000)
-![Three.js](https://img.shields.io/badge/Three.js-000?style=for-the-badge&logo=three.js&logoColor=fff)
-
-### 🔌 Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=fff)
-
-### 🤖 AI/ML Stack
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=fff)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=fff)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff)
-
-### 🎨 Creative Tech
-![GLSL](https://img.shields.io/badge/GLSL-Shaders-00FF88?style=for-the-badge)
-![GSAP](https://img.shields.io/badge/GSAP-Animation-0ACF83?style=for-the-badge)
-![WebGL](https://img.shields.io/badge/WebGL-00FF88?style=for-the-badge)
-
-</div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-### 🤖 **Friday** - AI Assistant
-Intelligent workflows, API integration, real-world AI application
-
-### 🎨 **Immersive Portfolio**
-3D visualizations with Three.js, shader effects with GLSL
-
-### 📱 **Full-Stack Solutions**
-MERN stack mastery, scalable architecture, modern UX
-
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EXCALIBUR-cmd&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EXCALIBUR-cmd&theme=radical&layout=compact&hide_border=true&bg_color=0d1117)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EXCALIBUR-cmd&theme=radical&hide_border=true&background=0d1117)
-
-</div>
-
----
-
-## 🎭 Creative Side
-
+### **PROJECT α: FRIDAY**
 ```
-While most see code as logic,
-I see it as art—
-A medium to paint stories,
-To sculpt experiences,
-To animate dreams into reality.
-
-Code + Creativity = ∞ Possibilities
+┌─────────────────────────────────────────────────┐
+│ OBJECTIVE: Build Intelligence                   │
+│ STATUS: ✓ Active & Learning                     │
+├─────────────────────────────────────────────────┤
+│ • AI Assistant with API Integration             │
+│ • Workflow Automation that scales               │
+│ • Real-world problem solving engine             │
+│ • Proves AI can be practical AND creative       │
+└─────────────────────────────────────────────────┘
 ```
 
-📝 I write **poetry and short stories** to keep my perspective human-centered  
-🎨 I explore **shader programming and generative art**  
-🧠 I stay curious about **emerging technologies and their implications**
+### **PROJECT β: IMMERSIVE DIMENSIONS**
+```
+┌─────────────────────────────────────────────────┐
+│ OBJECTIVE: Push Visual Boundaries               │
+│ STATUS: ✓ Ever-Evolving                         │
+├─────────────────────────────────────────────────┤
+│ • 3D Worlds with Three.js mastery              │
+│ • Shaders that bend reality (GLSL)             │
+│ • Animations that feel alive (GSAP)            │
+│ • Portfolio experiences that wow               │
+└─────────────────────────────────────────────────┘
+```
 
----
-
-## 🚀 What I'm Building
-
-- ✅ Scalable full-stack applications
-- ✅ AI-powered intelligent systems
-- ✅ Immersive web experiences
-- ✅ Open-source contributions
-- ✅ Projects that matter
-
-**Current Focus:** Mastering GLSL shaders and backend optimization
-
----
-
-## 💬 Let's Connect & Collaborate
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EXCALIBUR-cmd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maninder-singh-00a126288)
-[![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/EXCALIBUR-cmd)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhmaninder20047@gmail.com)
-
-*Open to collaborating on innovative projects that blend design, technology, and creativity.*
+### **PROJECT γ: FULL STACK SOLUTIONS**
+```
+┌─────────────────────────────────────────────────┐
+│ OBJECTIVE: End-to-End Excellence               │
+│ STATUS: ✓ Continuously Building                │
+├─────────────────────────────────────────────────┤
+│ • MERN stack applications                      │
+│ • Scalable architecture patterns               │
+│ • User experiences that matter                 │
+│ • Backend optimization wizardry                │
+└─────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
+## 📡 LIVE ANALYTICS FEED
+
 <div align="center">
 
-### ✨ Always Learning. Always Creating. Always Evolving. ✨
+![GitHub Stats Glow](https://github-readme-stats.vercel.app/api?username=EXCALIBUR-cmd&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&border_color=00FF88)
 
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="60px" />
+![Language Analytics](https://github-readme-stats.vercel.app/api/top-langs/?username=EXCALIBUR-cmd&theme=radical&layout=compact&hide_border=true&bg_color=0d1117&border_color=00FF88)
 
-**If you find my work interesting,** ⭐ **my repositories!**
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=EXCALIBUR-cmd&theme=radical&hide_border=true&background=0d1117&sideNums=00FF88&currStreakNum=00FF88)
+
+</div>
+
+---
+
+## 🎭 THE PHILOSOPHY LAYER
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║                   THE CREATIVE MANIFESTO                       ║
+╠════════════════════════════════════════════════════════════════╣
+║                                                                ║
+║  "Most developers write code to make computers happy."        ║
+║  "I write code to make humans feel something."                ║
+║                                                                ║
+║  Code is just syntax. But when you pair it with:              ║
+║    • Three.js magic ✨                                         ║
+║    • GSAP choreography 💃                                      ║
+║    • GLSL poetry 🎨                                            ║
+║    • User empathy ❤️                                           ║
+║                                                                ║
+║  ...THAT'S when technology becomes an ART FORM.               ║
+║                                                                ║
+║  ► Every pixel tells a story                                  ║
+║  ► Every animation has meaning                                ║
+║  ► Every interaction is intentional                           ║
+║  ► Every project is a journey, not a destination              ║
+║                                                                ║
+║  This is my way of blending code, creativity, and soul.       ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🌀 CREATIVE ENERGY LEVEL
+
+<div align="center">
+
+```
+        ◆─────────────────────────────────◆
+        │   INNOVATION    ██████████ 100%  │
+        │   CREATIVITY    ██████████ 100%  │
+        │   PASSION       ██████████ 100%  │
+        │   COFFEE        ███████░░░  70%  │  ← refilling...
+        │   SLEEP         ░░░░░░░░░░   5%  │  ← not important
+        ◆─────────────────────────────────◆
+        
+        STATUS: 🟢 READY TO BUILD EXTRAORDINARY
+        MODE:   🎨 CREATIVE MAXIMUM
+        VIBE:   ⚡ UNSTOPPABLE
+```
+
+</div>
+
+---
+
+## 🔗 INTERDIMENSIONAL PORTALS
+
+<div align="center">
+
+**Let's build something nobody has seen before**
+
+```
+You're Here ❤️  →  Let's Connect  →  Let's Create  →  History Made
+                          ↓
+```
+
+[![GitHub Portal](https://img.shields.io/badge/→%20GitHub%20←-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=00FF88)](https://github.com/EXCALIBUR-cmd)
+
+[![LinkedIn Nexus](https://img.shields.io/badge/→%20LinkedIn%20←-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00FF88)](https://linkedin.com/in/maninder-singh-00a126288)
+
+[![Email Transmission](https://img.shields.io/badge/→%20EMAIL%20←-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00FF88)](mailto:singhmaninder20047@gmail.com)
+
+```
+                    ★ SEND A MESSAGE ★
+        Share your vision. Let's create together.
+```
+
+</div>
+
+---
+
+## 🎆 CLOSING TRANSMISSION
+
+<div align="center">
+
+```
+╭─────────────────────────────────────────────────────────────╮
+│                                                             │
+│         ⚡ BUILDING IN PROGRESS ⚡                          │
+│                                                             │
+│  This GitHub isn't a portfolio. It's a playground.         │
+│  These repositories aren't projects. They're experiments.  │
+│  This code isn't documentation. It's storytelling.         │
+│                                                             │
+│         ► Every commit is a note in a symphony            │
+│         ► Every line is a pixel in a masterpiece          │
+│         ► Every idea becomes reality with passion         │
+│                                                             │
+│              ✨ Let's make something EXTRAORDINARY ✨       │
+│                                                             │
+╰─────────────────────────────────────────────────────────────╯
+
+
+    ████████╗ ██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗███████╗
+    ╚══██╔══╝ ██║  ██║██╔══██╗████╗  ██║██║ ██╔╝██╔════╝
+       ██║    ███████║███████║██╔██╗ ██║█████╔╝ █████╗  
+       ██║    ██╔══██║██╔══██║██║╚██╗██║██╔═██╗ ██╔══╝  
+       ██║    ██║  ██║██║  ██║██║ ╚████║██║  ██╗███████╗
+       ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
+                                                         
+    Always exploring. Always innovating. Always creating.
+    
+    → Profile Views: 
+    
+    ↳ Last Updated: December 2025 | Status: 🟢 LIVE
+    
+```
 
 </div>
