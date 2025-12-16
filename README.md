@@ -1,29 +1,193 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Maninder Singh
-=======================================================================================================================================
+<!-- Animated Header Background -->
+<div align="center">
+  
+![Animated Banner](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Full Stack Developer & Designer
-------------------
+# 🌟 Maninder Singh
 
-I’m a Computer Science student and developer passionate about solving problems at the intersection of technology, creativity, and innovation. My expertise spans Frontend Engineering, AI/ML, and full-stack development (MERN stack), where I focus on building applications that are not only functional but also engaging and impactful.
+### `< Full Stack Developer | AI/ML Enthusiast | Creative Technologist />`
 
-Over the past few years, I’ve built projects ranging from interactive web experiences and immersive portfolio designs to Friday, a personal AI assistant that integrates APIs, automates workflows, and demonstrates my ability to connect AI with real-world use cases. These projects have strengthened my skills in React, Node.js, MongoDB, PyTorch, TensorFlow, and modern frontend frameworks while teaching me the importance of scalable design, user experience, and practical problem-solving.
+```
+████████████████████████████████████████████████████████████
+█ Building immersive experiences at the intersection       █
+█ of code, creativity, and innovation                      █
+████████████████████████████████████████████████████████████
+```
 
-I bring curiosity, adaptability, and creativity to every project. Whether it’s exploring Three.js, GLSL shaders, and GSAP for visually stunning interfaces, experimenting with AI models in PyTorch/TensorFlow, or building end-to-end solutions with the MERN stack, I thrive on challenges that push me to think differently.
+</div>
 
-Outside of code, I write poetry and short stories, which helps me bring a human perspective to my work and design technology with empathy.
+<!-- Animated Typing SVG -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00FF88&center=true&vCenter=true&width=900&lines=Full+Stack+%7C+Frontend+%7C+Backend;React+%7C+Next.js+%7C+Node.js;AI%2FML+%7C+Three.js+%7C+GLSL;Code+%2B+Art+%3D+Magic" alt="Typing SVG" />
+</div>
 
-I’m looking to collaborate on impactful projects in AI, frontend engineering, or full-stack development — contributing code, creativity, and a problem-solving mindset. If you’re working on something exciting, let’s connect and build solutions that truly matter.
+---
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [singhmaninder20047@gmail.com](mailto:singhmaninder20047@gmail.com)
-* 🧠  I'm currently learning GLSL and Backend Tech
-* 👥  I'm looking to collaborate on innovative projects that blend design, code, and creativity to build experiences that truly stand out.
-* 💬  Ask me about I see the web as a canvas where code paints stories. With JavaScript and React, I shape seamless interfaces; with Three.js, GLSL, and GSAP, I breathe life into them through motion and depth. When needed, Python and Node.js let me extend ideas into powerful full-stack experiences. I’m driven by curiosity, always exploring ways to blur the line between technology and art — building not just projects, but immersive journeys that stand out.
+## 📊 Real-Time Stats
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" alt="Babel" title="Babel" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
-</p>
+<div align="center">
+  
+  [![GitHub Views](https://komarev.com/ghpvc/?username=EXCALIBUR-cmd&color=00FF88&style=flat-square&label=Profile+Views)](https://github.com/EXCALIBUR-cmd)
+  
+  ![Profile Last Updated](https://img.shields.io/badge/Last%20Updated-Dec%202025-brightgreen?style=flat-square)
+  ![Status](https://img.shields.io/badge/Status-Open%20to%20Collaborate-00FF88?style=flat-square)
+  ![Location](https://img.shields.io/badge/Location-🇮🇳%20India-blue?style=flat-square)
 
-### Socials
+</div>
 
-<p align="left"> <a href="https://www.github.com/EXCALIBUR-cmd" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/EXCALIBUR-cmd" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://www.linkedin.com/in/maninder-singh-00a126288" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+---
+
+## 👨‍💻 About Me
+
+<table>
+  <tr>
+    <td width="50%">
+
+### 🎯 What I Do
+- 🚀 Build scalable full-stack applications
+- 🎨 Create immersive web experiences
+- 🤖 Develop AI/ML solutions
+- ⚡ Combine code with creativity
+
+### 💡 Philosophy
+*"Code is poetry. Design is story. Together, they create magic."*
+
+The web is my canvas. I paint with JavaScript, sculpt with Three.js, and animate with GSAP. Every project is an opportunity to push boundaries and create something that matters.
+
+    </td>
+    <td width="50%">
+
+### 🌐 Tech Arsenal
+**Frontend:** React, Next.js, Vue.js  
+**Backend:** Node.js, Express, Python  
+**Design:** Three.js, GLSL, GSAP, Tailwind  
+**AI/ML:** PyTorch, TensorFlow, Deep Learning  
+**Tools:** Git, Docker, PostgreSQL, MongoDB
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack Explorer
+
+<div align="center">
+
+### 🔥 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=fff)
+
+### ⚡ Frontend Frameworks
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=000)
+![Three.js](https://img.shields.io/badge/Three.js-000?style=for-the-badge&logo=three.js&logoColor=fff)
+
+### 🔌 Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=fff)
+
+### 🤖 AI/ML Stack
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=fff)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=fff)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff)
+
+### 🎨 Creative Tech
+![GLSL](https://img.shields.io/badge/GLSL-Shaders-00FF88?style=for-the-badge)
+![GSAP](https://img.shields.io/badge/GSAP-Animation-0ACF83?style=for-the-badge)
+![WebGL](https://img.shields.io/badge/WebGL-00FF88?style=for-the-badge)
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+### 🤖 **Friday** - AI Assistant
+Intelligent workflows, API integration, real-world AI application
+
+### 🎨 **Immersive Portfolio**
+3D visualizations with Three.js, shader effects with GLSL
+
+### 📱 **Full-Stack Solutions**
+MERN stack mastery, scalable architecture, modern UX
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EXCALIBUR-cmd&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EXCALIBUR-cmd&theme=radical&layout=compact&hide_border=true&bg_color=0d1117)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EXCALIBUR-cmd&theme=radical&hide_border=true&background=0d1117)
+
+</div>
+
+---
+
+## 🎭 Creative Side
+
+```
+While most see code as logic,
+I see it as art—
+A medium to paint stories,
+To sculpt experiences,
+To animate dreams into reality.
+
+Code + Creativity = ∞ Possibilities
+```
+
+📝 I write **poetry and short stories** to keep my perspective human-centered  
+🎨 I explore **shader programming and generative art**  
+🧠 I stay curious about **emerging technologies and their implications**
+
+---
+
+## 🚀 What I'm Building
+
+- ✅ Scalable full-stack applications
+- ✅ AI-powered intelligent systems
+- ✅ Immersive web experiences
+- ✅ Open-source contributions
+- ✅ Projects that matter
+
+**Current Focus:** Mastering GLSL shaders and backend optimization
+
+---
+
+## 💬 Let's Connect & Collaborate
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EXCALIBUR-cmd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maninder-singh-00a126288)
+[![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/EXCALIBUR-cmd)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhmaninder20047@gmail.com)
+
+*Open to collaborating on innovative projects that blend design, technology, and creativity.*
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Always Learning. Always Creating. Always Evolving. ✨
+
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="60px" />
+
+**If you find my work interesting,** ⭐ **my repositories!**
+
+</div>
