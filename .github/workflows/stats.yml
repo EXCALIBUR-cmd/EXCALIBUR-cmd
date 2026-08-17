@@ -44,6 +44,17 @@ jobs:
           path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate contribution stats
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: profile/contributions.svg
+          include-title: true
+          custom-title: GitHub Contributions
+          colors: dark
+          hide-keys: general, languages, repositories
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit generated stats
         run: |
           git config user.name "github-actions[bot]"
