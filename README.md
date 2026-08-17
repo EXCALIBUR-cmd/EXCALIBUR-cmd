@@ -150,12 +150,12 @@ const maninder = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EXCALIBUR-cmd&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Maninder Singh github stats" /> 
-  <img width="49%" height="195px" src="https://nirzak-streak-stats.vercel.app/?user=EXCALIBUR-cmd&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&ring=00b3ff&fire=00b4ff&currStreakLabel=00b3ff" />
+  <img width="49%" height="195px" src="./profile/stats.svg" alt="Maninder Singh GitHub stats" />
+  <img width="49%" height="195px" src="./profile/streak.svg" alt="Maninder Singh GitHub streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EXCALIBUR-cmd&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <img width="49%" src="./profile/top-langs.svg" alt="Maninder Singh top languages" />
 </div>
 
 <br/>
@@ -167,7 +167,6 @@ const maninder = {
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
