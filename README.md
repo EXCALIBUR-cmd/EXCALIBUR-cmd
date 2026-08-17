@@ -176,10 +176,10 @@ const maninder = {
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-## 🔝 Top Contributed Repo
+## 🔝 Contributions
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=EXCALIBUR-cmd&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="./profile/contributions.svg" alt="Maninder Singh GitHub Contributions" />
 </div>
 
 <br/>
