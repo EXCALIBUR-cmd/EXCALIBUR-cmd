@@ -37,6 +37,13 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate GitHub trophies
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: 'username=EXCALIBUR-cmd&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4'
+          path: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit generated stats
         run: |
           git config user.name "github-actions[bot]"
