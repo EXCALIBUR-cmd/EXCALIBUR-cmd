@@ -170,13 +170,12 @@ const maninder = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EXCALIBUR-cmd&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" />
+  <img src="./profile/trophy.svg" alt="Maninder Singh GitHub Trophies" />
 </div>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🔝 Top Contributed Repo
 
 <div align="center">
