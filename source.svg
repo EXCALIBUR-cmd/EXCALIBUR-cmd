@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+<title id="title">maninder.frag — an About Me written as a GLSL shader</title>
+<desc id="desc">A code editor window showing a playful GLSL fragment shader: frontend is React, Next.js and Three.js; backend is Node.js, Express and Socket.IO; realtime is WebRTC, WebSockets and GSAP; data is PostgreSQL, MongoDB and Firebase. main() sets focus to realtime times multiplayer, for drawing, chat and video, and mixes code and verse because both are art. A live output panel renders a swirling shader orb.</desc>
+<defs><clipPath id="card"><rect width="1200" height="520" rx="24"/></clipPath>
+<radialGradient id="qbase" cx="38%" cy="32%" r="75%">
+  <stop offset="0" stop-color="#C4B5FD"/><stop offset=".35" stop-color="#7C3AED"/><stop offset=".75" stop-color="#2E1065"/><stop offset="1" stop-color="#0B0620"/>
+</radialGradient>
+<radialGradient id="qshade" cx="32%" cy="28%" r="85%">
+  <stop offset=".45" stop-color="#05060A" stop-opacity="0"/><stop offset="1" stop-color="#05060A" stop-opacity=".9"/>
+</radialGradient>
+<linearGradient id="qrim" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#00E5FF" stop-opacity=".95"/><stop offset=".5" stop-color="#00E5FF" stop-opacity="0"/><stop offset="1" stop-color="#FF2E97" stop-opacity=".5"/>
+</linearGradient>
+<filter id="qcloudA" x="0" y="0" width="100%" height="100%">
+  <feTurbulence type="fractalNoise" baseFrequency=".018" numOctaves="4" seed="3"/>
+  <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 .9  0 0 0 0 1  1.9 0 0 0 -.82"/>
+</filter>
+<filter id="qcloudB" x="0" y="0" width="100%" height="100%">
+  <feTurbulence type="fractalNoise" baseFrequency=".03" numOctaves="3" seed="11"/>
+  <feColorMatrix type="matrix" values="0 0 0 0 1  0 0 0 0 .18  0 0 0 0 .6  1.7 0 0 0 -.8"/>
+</filter>
+<filter id="qblur30" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="30"/></filter>
+<filter id="qblur6" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="6"/></filter>
+<linearGradient id="qring" gradientUnits="userSpaceOnUse" x1="-200" y1="0" x2="200" y2="0">
+  <stop offset="0" stop-color="#00E5FF"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#FF2E97"/>
+</linearGradient>
+<clipPath id="qdisc"><circle r="100"/></clipPath>
+<clipPath id="qfront"><rect x="-260" y="0" width="520" height="120"/></clipPath></defs>
+<style>
+.sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif; }
+.mono { font-family: 'JetBrains Mono', 'Cascadia Code', 'SF Mono', ui-monospace, Consolas, Menlo, monospace; }
+
+
+.spin { transform-box: fill-box; transform-origin: center; animation: spin 90s linear infinite; }
+.spinr { transform-box: fill-box; transform-origin: center; animation: spin 140s linear infinite reverse; }
+.flow { animation: flow 4s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
+@keyframes flow { to { stroke-dashoffset: -192; } }
+.c { fill: #5C6773; font-style: italic; } .k { fill: #C792EA; } .t { fill: #00E5FF; } .v { fill: #E6E9EF; }
+.s { fill: #89DDFF; } .n { fill: #FFB86B; } .f { fill: #82AAFF; } .i { fill: #FFCB8B; }
+.ln { animation: ln .5s ease-out backwards; }
+@keyframes ln { from { opacity: 0; transform: translateX(-8px); } }
+.caret { animation: caret 1s steps(1) infinite; } @keyframes caret { 50% { opacity: 0; } }
+.live { transform-box: fill-box; transform-origin: center; animation: live 1.6s ease-out infinite; }
+@keyframes live { 0% { transform: scale(1); opacity: .9; } 100% { transform: scale(3); opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g clip-path="url(#card)">
+<rect width="1200" height="520" fill="#0A0B12"/>
+<rect width="1200" height="52" fill="#0E1018"/>
+<line x1="0" y1="52" x2="1200" y2="52" stroke="#fff" stroke-opacity=".07"/>
+<circle cx="30" cy="26" r="6.5" fill="#FF5F57"/><circle cx="52" cy="26" r="6.5" fill="#FEBC2E"/><circle cx="74" cy="26" r="6.5" fill="#28C840"/>
+<rect x="104" y="12" width="182" height="40" rx="10" fill="#0A0B12"/>
+<circle cx="124" cy="32" r="4" fill="#00E5FF"/>
+<text class="mono" x="138" y="37" font-size="14" fill="#E6E9EF">maninder.frag</text>
+<text class="mono" x="1172" y="32" text-anchor="end" font-size="12" letter-spacing="2" fill="#5C6773">GLSL · UTF-8 · LF</text>
+<g class="ln" style="animation-delay:0.3s"><text class="mono" x="52" y="104" text-anchor="end" font-size="15" fill="#3B4252">1</text><text class="mono" x="72" y="104" font-size="17" xml:space="preserve"><tspan class="c">// maninder.frag · compiled with curiosity</tspan></text></g><g class="ln" style="animation-delay:0.4s"><text class="mono" x="52" y="134" text-anchor="end" font-size="15" fill="#3B4252">2</text><text class="mono" x="72" y="134" font-size="17" xml:space="preserve"><tspan class="k">precision</tspan><tspan class="v"> </tspan><tspan class="k">highp</tspan><tspan class="v"> </tspan><tspan class="t">float</tspan><tspan class="s">;</tspan></text></g><g class="ln" style="animation-delay:0.6s"><text class="mono" x="52" y="164" text-anchor="end" font-size="15" fill="#3B4252">3</text><text class="mono" x="72" y="164" font-size="17" xml:space="preserve"></text></g><g class="ln" style="animation-delay:0.7s"><text class="mono" x="52" y="194" text-anchor="end" font-size="15" fill="#3B4252">4</text><text class="mono" x="72" y="194" font-size="17" xml:space="preserve"><tspan class="k">uniform</tspan><tspan class="v"> </tspan><tspan class="t">vec3</tspan><tspan class="v"> frontend </tspan><tspan class="s">=</tspan><tspan class="v"> </tspan><tspan class="f">vec3</tspan><tspan class="s">(</tspan><tspan class="i">React, Next.js, Three.js</tspan><tspan class="s">);</tspan></text></g><g class="ln" style="animation-delay:0.9s"><text class="mono" x="52" y="224" text-anchor="end" font-size="15" fill="#3B4252">5</text><text class="mono" x="72" y="224" font-size="17" xml:space="preserve"><tspan class="k">uniform</tspan><tspan class="v"> </tspan><tspan class="t">vec3</tspan><tspan class="v"> backend  </tspan><tspan class="s">=</tspan><tspan class="v"> </tspan><tspan class="f">vec3</tspan><tspan class="s">(</tspan><tspan class="i">Node.js, Express, Socket.IO</tspan><tspan class="s">);</tspan></text></g><g class="ln" style="animation-delay:1s"><text class="mono" x="52" y="254" text-anchor="end" font-size="15" fill="#3B4252">6</text><text class="mono" x="72" y="254" font-size="17" xml:space="preserve"><tspan class="k">uniform</tspan><tspan class="v"> </tspan><tspan class="t">vec3</tspan><tspan class="v"> realtime </tspan><tspan class="s">=</tspan><tspan class="v"> </tspan><tspan class="f">vec3</tspan><tspan class="s">(</tspan><tspan class="i">WebRTC, WebSockets, GSAP</tspan><tspan class="s">);</tspan></text></g><g class="ln" style="animation-delay:1.1s"><text class="mono" x="52" y="284" text-anchor="end" font-size="15" fill="#3B4252">7</text><text class="mono" x="72" y="284" font-size="17" xml:space="preserve"><tspan class="k">uniform</tspan><tspan class="v"> </tspan><tspan class="t">vec3</tspan><tspan class="v"> data     </tspan><tspan class="s">=</tspan><tspan class="v"> </tspan><tspan class="f">vec3</tspan><tspan class="s">(</tspan><tspan class="i">PostgreSQL, MongoDB, Firebase</tspan><tspan class="s">);</tspan></text></g><g class="ln" style="animation-delay:1.3s"><text class="mono" x="52" y="314" text-anchor="end" font-size="15" fill="#3B4252">8</text><text class="mono" x="72" y="314" font-size="17" xml:space="preserve"></text></g><g class="ln" style="animation-delay:1.4s"><text class="mono" x="52" y="344" text-anchor="end" font-size="15" fill="#3B4252">9</text><text class="mono" x="72" y="344" font-size="17" xml:space="preserve"><tspan class="t">void</tspan><tspan class="v"> </tspan><tspan class="f">main</tspan><tspan class="s">() {</tspan></text></g><g class="ln" style="animation-delay:1.6s"><text class="mono" x="52" y="374" text-anchor="end" font-size="15" fill="#3B4252">10</text><text class="mono" x="72" y="374" font-size="17" xml:space="preserve"><tspan class="v">  </tspan><tspan class="t">vec3</tspan><tspan class="v">  focus  </tspan><tspan class="s">=</tspan><tspan class="v"> realtime </tspan><tspan class="s">*</tspan><tspan class="v"> multiplayer</tspan><tspan class="s">;</tspan><tspan class="c">  // draw, chat, video</tspan></text></g><g class="ln" style="animation-delay:1.7s"><text class="mono" x="52" y="404" text-anchor="end" font-size="15" fill="#3B4252">11</text><text class="mono" x="72" y="404" font-size="17" xml:space="preserve"><tspan class="v">  </tspan><tspan class="t">float</tspan><tspan class="v"> poetry </tspan><tspan class="s">=</tspan><tspan class="v"> </tspan><tspan class="f">mix</tspan><tspan class="s">(</tspan><tspan class="v">code, verse, </tspan><tspan class="n">0.5</tspan><tspan class="s">);</tspan><tspan class="c">   // both are art</tspan></text></g><g class="ln" style="animation-delay:1.8s"><text class="mono" x="52" y="434" text-anchor="end" font-size="15" fill="#3B4252">12</text><text class="mono" x="72" y="434" font-size="17" xml:space="preserve"><tspan class="v">  gl_FragColor </tspan><tspan class="s">=</tspan><tspan class="v"> </tspan><tspan class="f">vec4</tspan><tspan class="s">(</tspan><tspan class="v">focus, poetry, </tspan><tspan class="n">1.0</tspan><tspan class="s">);</tspan></text></g><g class="ln" style="animation-delay:2s"><text class="mono" x="52" y="464" text-anchor="end" font-size="15" fill="#3B4252">13</text><text class="mono" x="72" y="464" font-size="17" xml:space="preserve"><tspan class="s">}</tspan></text></g>
+<rect class="caret" x="86.2" y="449" width="9" height="19" fill="#00E5FF" opacity=".85"/>
+<rect x="790" y="76" width="386" height="420" rx="18" fill="#05060A" stroke="#fff" stroke-opacity=".07"/>
+<circle cx="818" cy="104" r="4" fill="#FF2E97"/><circle class="live" cx="818" cy="104" r="4" fill="#FF2E97"/>
+<text class="mono" x="832" y="109" font-size="12" letter-spacing="3" fill="#FF2E97">OUTPUT · LIVE</text>
+<text class="mono" x="1152" y="109" text-anchor="end" font-size="12" fill="#5C6773">60 fps</text>
+<g transform="translate(983 280)">
+  <circle r="135" fill="#8B5CF6" opacity=".38" filter="url(#qblur30)"/>
+  
+  <circle r="100" fill="url(#qbase)"/>
+  <g clip-path="url(#qdisc)">
+    <rect class="spin" x="-130" y="-130" width="260" height="260" filter="url(#qcloudA)" opacity=".55"/>
+    <rect class="spinr" x="-130" y="-130" width="260" height="260" filter="url(#qcloudB)" opacity=".45"/>
+  </g>
+  <circle r="100" fill="url(#qshade)"/>
+  <circle r="99.2" fill="none" stroke="url(#qrim)" stroke-width="1.6"/>
+  <ellipse cx="-36" cy="-42" rx="26" ry="13" transform="rotate(-32 -36 -42)" fill="#fff" opacity=".32" filter="url(#qblur6)"/>
+  
+</g>
+<text class="mono" x="983" y="456" text-anchor="middle" font-size="13" fill="#9AA3B2">fragColor = vec4(focus, poetry, 1.0)</text>
+</g>
+<rect x=".5" y=".5" width="1199" height="519" rx="24" fill="none" stroke="#fff" stroke-opacity=".1"/>
+</svg>

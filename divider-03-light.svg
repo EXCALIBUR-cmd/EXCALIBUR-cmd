@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="60" viewBox="0 0 1200 60" role="img" aria-labelledby="title desc">
+<title id="title">03 · STACK</title>
+<desc id="desc">Section divider: 03 STACK.</desc>
+<defs>
+<linearGradient id="l" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="482" y2="0"><stop offset="0" stop-color="#8B5CF6" stop-opacity="0"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+<linearGradient id="r" gradientUnits="userSpaceOnUse" x1="718" y1="0" x2="1200" y2="0"><stop offset="0" stop-color="#00E5FF"/><stop offset="1" stop-color="#00E5FF" stop-opacity="0"/></linearGradient>
+<filter id="g" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="2.5"/></filter></defs>
+<style>
+.sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif; }
+.mono { font-family: 'JetBrains Mono', 'Cascadia Code', 'SF Mono', ui-monospace, Consolas, Menlo, monospace; }
+
+.dl { animation: dl 3.6s cubic-bezier(.3, 0, .7, 1) infinite; } .dr { animation: dr 3.6s cubic-bezier(.3, 0, .7, 1) infinite; }
+@keyframes dl { 0% { transform: translateX(0); opacity: 0; } 15% { opacity: 1; } 100% { transform: translateX(-482px); opacity: 0; } }
+@keyframes dr { 0% { transform: translateX(0); opacity: 0; } 15% { opacity: 1; } 100% { transform: translateX(482px); opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+
+<line x1="0" y1="30" x2="482" y2="30" stroke="url(#l)" stroke-width="1.5"/>
+<line x1="718" y1="30" x2="1200" y2="30" stroke="url(#r)" stroke-width="1.5"/>
+<rect x="478" y="26" width="8" height="8" fill="#8B5CF6" transform="rotate(45 482 30)"/>
+<rect x="714" y="26" width="8" height="8" fill="#00E5FF" transform="rotate(45 718 30)"/>
+<g class="dl" opacity="0"><circle cx="482" cy="30" r="4" fill="#8B5CF6" filter="url(#g)"/><circle cx="482" cy="30" r="1.8" fill="#fff"/></g>
+<g class="dr" opacity="0"><circle cx="718" cy="30" r="4" fill="#00E5FF" filter="url(#g)"/><circle cx="718" cy="30" r="1.8" fill="#fff"/></g>
+<text class="mono" x="600" y="35" text-anchor="middle" font-size="15" letter-spacing="6"><tspan fill="#8B5CF6" font-weight="700">03</tspan><tspan fill="#57606A"> · STACK</tspan></text>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">What I am up to right now</title>
+<desc id="desc">Three cards. Building: live multiplayer canvases with real-time drawing over Socket.IO, chat and video over WebRTC, and AI-powered automation tools. Open to: full-stack and real-time systems, creative Three.js and WebGL work, and AI apps for real-world problems. Learning: advanced GLSL shader programming, system design at scale, and performance optimization.</desc>
+<defs><filter id="soft" x="-150%" y="-150%" width="400%" height="400%"><feGaussianBlur stdDeviation="28"/></filter><clipPath id="cardClip"><rect x="1" y="1" width="382" height="298" rx="20"/></clipPath></defs>
+<style>
+.sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif; }
+.mono { font-family: 'JetBrains Mono', 'Cascadia Code', 'SF Mono', ui-monospace, Consolas, Menlo, monospace; }
+
+.edge { animation: edge 7s linear infinite; }
+@keyframes edge { to { stroke-dashoffset: -1333.7; } }
+.ring { transform-box: fill-box; transform-origin: center; animation: ring 1.6s ease-out infinite; }
+@keyframes ring { 0% { transform: scale(1); opacity: .9; } 100% { transform: scale(3.2); opacity: 0; } }
+.slow { transform-box: fill-box; transform-origin: center; animation: slow 12s linear infinite; }
+@keyframes slow { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g transform="translate(0 0)">
+  <rect x="1" y="1" width="382" height="298" rx="20" fill="#0A0B12" stroke="#fff" stroke-opacity=".08"/>
+  <rect class="edge" x="1" y="1" width="382" height="298" rx="20" fill="none" stroke="#00E5FF" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="150 1183.7" style="animation-delay:-0s"/>
+  <g clip-path="url(#cardClip)"><circle cx="324" cy="50" r="70" fill="#00E5FF" opacity=".1" filter="url(#soft)"/></g>
+  <g transform="translate(332 54)"><circle r="6" fill="#00E5FF"/><circle class="ring" r="6" fill="none" stroke="#00E5FF" stroke-width="2"/><circle class="ring" r="6" fill="none" stroke="#00E5FF" stroke-width="2" style="animation-delay:.8s"/></g>
+  <text class="mono" x="28" y="56" font-size="13" letter-spacing="3" fill="#00E5FF">01 — BUILDING</text>
+  <text class="sans" x="28" y="112" font-size="23" font-weight="700" fill="#fff">Live, multiplayer canvases</text>
+  <line x1="28" y1="136" x2="356" y2="136" stroke="#fff" stroke-opacity=".07"/>
+  <rect x="28" y="166" width="7" height="7" rx="1.5" fill="#00E5FF" transform="rotate(45 31.5 169.5)"/><text class="sans" x="48" y="174" font-size="17" fill="#C9CED6">Real-time drawing with Socket.IO</text><rect x="28" y="202" width="7" height="7" rx="1.5" fill="#00E5FF" transform="rotate(45 31.5 205.5)"/><text class="sans" x="48" y="210" font-size="17" fill="#C9CED6">Chat and video over WebRTC</text><rect x="28" y="238" width="7" height="7" rx="1.5" fill="#00E5FF" transform="rotate(45 31.5 241.5)"/><text class="sans" x="48" y="246" font-size="17" fill="#C9CED6">AI-powered automation tools</text>
+</g><g transform="translate(408 0)">
+  <rect x="1" y="1" width="382" height="298" rx="20" fill="#0A0B12" stroke="#fff" stroke-opacity=".08"/>
+  <rect class="edge" x="1" y="1" width="382" height="298" rx="20" fill="none" stroke="#8B5CF6" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="150 1183.7" style="animation-delay:-2s"/>
+  <g clip-path="url(#cardClip)"><circle cx="324" cy="50" r="70" fill="#8B5CF6" opacity=".1" filter="url(#soft)"/></g>
+  <g transform="translate(332 54)"><g class="slow"><circle cx="-7" r="11" fill="none" stroke="#8B5CF6" stroke-width="2.2"/><circle cx="7" r="11" fill="none" stroke="#8B5CF6" stroke-width="2.2"/></g></g>
+  <text class="mono" x="28" y="56" font-size="13" letter-spacing="3" fill="#8B5CF6">02 — OPEN TO</text>
+  <text class="sans" x="28" y="112" font-size="23" font-weight="700" fill="#fff">Let's build together</text>
+  <line x1="28" y1="136" x2="356" y2="136" stroke="#fff" stroke-opacity=".07"/>
+  <rect x="28" y="166" width="7" height="7" rx="1.5" fill="#8B5CF6" transform="rotate(45 31.5 169.5)"/><text class="sans" x="48" y="174" font-size="17" fill="#C9CED6">Full-stack and real-time systems</text><rect x="28" y="202" width="7" height="7" rx="1.5" fill="#8B5CF6" transform="rotate(45 31.5 205.5)"/><text class="sans" x="48" y="210" font-size="17" fill="#C9CED6">Creative Three.js and WebGL work</text><rect x="28" y="238" width="7" height="7" rx="1.5" fill="#8B5CF6" transform="rotate(45 31.5 241.5)"/><text class="sans" x="48" y="246" font-size="17" fill="#C9CED6">AI apps for real-world problems</text>
+</g><g transform="translate(816 0)">
+  <rect x="1" y="1" width="382" height="298" rx="20" fill="#0A0B12" stroke="#fff" stroke-opacity=".08"/>
+  <rect class="edge" x="1" y="1" width="382" height="298" rx="20" fill="none" stroke="#FF2E97" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="150 1183.7" style="animation-delay:-4s"/>
+  <g clip-path="url(#cardClip)"><circle cx="324" cy="50" r="70" fill="#FF2E97" opacity=".1" filter="url(#soft)"/></g>
+  <g transform="translate(332 54)"><path class="slow" d="M0 -16 L4 -4 L16 0 L4 4 L0 16 L-4 4 L-16 0 L-4 -4 Z" fill="#FF2E97"/></g>
+  <text class="mono" x="28" y="56" font-size="13" letter-spacing="3" fill="#FF2E97">03 — LEARNING</text>
+  <text class="sans" x="28" y="112" font-size="23" font-weight="700" fill="#fff">Leveling up</text>
+  <line x1="28" y1="136" x2="356" y2="136" stroke="#fff" stroke-opacity=".07"/>
+  <rect x="28" y="166" width="7" height="7" rx="1.5" fill="#FF2E97" transform="rotate(45 31.5 169.5)"/><text class="sans" x="48" y="174" font-size="17" fill="#C9CED6">Advanced GLSL shader programming</text><rect x="28" y="202" width="7" height="7" rx="1.5" fill="#FF2E97" transform="rotate(45 31.5 205.5)"/><text class="sans" x="48" y="210" font-size="17" fill="#C9CED6">System design at scale</text><rect x="28" y="238" width="7" height="7" rx="1.5" fill="#FF2E97" transform="rotate(45 31.5 241.5)"/><text class="sans" x="48" y="246" font-size="17" fill="#C9CED6">Performance optimization</text>
+</g>
+</svg>
