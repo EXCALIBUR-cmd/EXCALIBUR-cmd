@@ -42,19 +42,7 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,py,java,html,css,react,nextjs,threejs,tailwind,bootstrap&theme=dark">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css,react,nextjs,threejs,tailwind,bootstrap&theme=light" alt="js, ts, py, java, html, css, react, nextjs, threejs, tailwind, bootstrap">
-  </picture>
-  <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase,prisma,docker,git,github,postman,vercel,netlify&theme=dark">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase,prisma,docker,git,github,postman,vercel,netlify&theme=light" alt="nodejs, express, postgres, mongodb, firebase, prisma, docker, git, github, postman, vercel, netlify">
-  </picture>
-</p>
-
-<p align="center">
-  <code>GLSL</code> <code>WebGL</code> <code>OpenGL</code> <code>GSAP</code> <code>Socket.IO</code> <code>WebRTC</code> <code>WebSockets</code> <code>JWT</code> <code>Render</code>
+  <img src="./stack.svg" width="100%" alt="Tech stack. languages: JavaScript, TypeScript, Python, Java, HTML, CSS, GLSL. frontend: React, Next.js, Three.js, Tailwind CSS, Bootstrap, WebGL, OpenGL, GSAP. realtime and api: Node.js, Express, Socket.IO, WebRTC, WebSockets, JWT, Nodemon. data: PostgreSQL, MongoDB, Firebase, Prisma. cloud and tools: Docker, Git, GitHub, Postman, Vercel, Netlify, Render.">
 </p>
 
 <p align="center">
