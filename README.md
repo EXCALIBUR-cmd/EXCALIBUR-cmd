@@ -1,33 +1,33 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Maninder Singh — Full-Stack Developer, Shader Wizard and 3D Artist. Turning code into visual magic: real-time, multiplayer, and on the GPU.">
+  <img src="./hero.svg" width="100%" alt="Maninder Singh — Full-Stack Developer, Shader Wizard and 3D Artist. Turning code into visual magic: real-time, multiplayer, and on the GPU.">
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/maninder-dev/"><img src="./assets/connect-linkedin.svg" height="46" alt="LinkedIn"></a>&nbsp;
-  <a href="https://instagram.com/maninder_31_"><img src="./assets/connect-instagram.svg" height="46" alt="Instagram"></a>&nbsp;
-  <a href="mailto:singhmaninder20047@gmail.com"><img src="./assets/connect-email.svg" height="46" alt="Email"></a>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-01-dark.svg">
-    <img src="./assets/divider-01-light.svg" width="100%" alt="01 · SOURCE">
-  </picture>
-</p>
-
-<p align="center">
-  <img src="./assets/source.svg" width="100%" alt="About me, written as a GLSL shader. Frontend: React, Next.js, Three.js. Backend: Node.js, Express, Socket.IO. Realtime: WebRTC, WebSockets, GSAP. Data: PostgreSQL, MongoDB, Firebase. Focus: real-time multiplayer drawing, chat and video. I write poetry and code; both are creative expressions.">
+  <a href="https://linkedin.com/in/maninder-dev/"><img src="./connect-linkedin.svg" height="46" alt="LinkedIn"></a>&nbsp;
+  <a href="https://instagram.com/maninder_31_"><img src="./connect-instagram.svg" height="46" alt="Instagram"></a>&nbsp;
+  <a href="mailto:singhmaninder20047@gmail.com"><img src="./connect-email.svg" height="46" alt="Email"></a>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-02-dark.svg">
-    <img src="./assets/divider-02-light.svg" width="100%" alt="02 · NOW">
+    <source media="(prefers-color-scheme: dark)" srcset="./divider-01-dark.svg">
+    <img src="./divider-01-light.svg" width="100%" alt="01 · SOURCE">
   </picture>
 </p>
 
 <p align="center">
-  <img src="./assets/now.svg" width="100%" alt="Building: live multiplayer canvases with real-time drawing over Socket.IO, chat and video over WebRTC, and AI-powered automation tools. Open to: full-stack and real-time systems, creative Three.js and WebGL work, and AI apps for real-world problems. Learning: advanced GLSL shader programming, system design at scale, and performance optimization.">
+  <img src="./source.svg" width="100%" alt="About me, written as a GLSL shader. Frontend: React, Next.js, Three.js. Backend: Node.js, Express, Socket.IO. Realtime: WebRTC, WebSockets, GSAP. Data: PostgreSQL, MongoDB, Firebase. Focus: real-time multiplayer drawing, chat and video. I write poetry and code; both are creative expressions.">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./divider-02-dark.svg">
+    <img src="./divider-02-light.svg" width="100%" alt="02 · NOW">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="./now.svg" width="100%" alt="Building: live multiplayer canvases with real-time drawing over Socket.IO, chat and video over WebRTC, and AI-powered automation tools. Open to: full-stack and real-time systems, creative Three.js and WebGL work, and AI apps for real-world problems. Learning: advanced GLSL shader programming, system design at scale, and performance optimization.">
 </p>
 
 <p align="center">
@@ -36,8 +36,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-03-dark.svg">
-    <img src="./assets/divider-03-light.svg" width="100%" alt="03 · STACK">
+    <source media="(prefers-color-scheme: dark)" srcset="./divider-03-dark.svg">
+    <img src="./divider-03-light.svg" width="100%" alt="03 · STACK">
   </picture>
 </p>
 
@@ -59,8 +59,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-04-dark.svg">
-    <img src="./assets/divider-04-light.svg" width="100%" alt="04 · SIGNAL">
+    <source media="(prefers-color-scheme: dark)" srcset="./divider-04-dark.svg">
+    <img src="./divider-04-light.svg" width="100%" alt="04 · SIGNAL">
   </picture>
 </p>
 
@@ -81,8 +81,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-05-dark.svg">
-    <img src="./assets/divider-05-light.svg" width="100%" alt="05 · TRAIL">
+    <source media="(prefers-color-scheme: dark)" srcset="./divider-05-dark.svg">
+    <img src="./divider-05-light.svg" width="100%" alt="05 · TRAIL">
   </picture>
 </p>
 
@@ -94,7 +94,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Let's build something that moves. Thanks for stopping by.">
+  <img src="./footer.svg" width="100%" alt="Let's build something that moves. Thanks for stopping by.">
 </p>
 
 <p align="center">
